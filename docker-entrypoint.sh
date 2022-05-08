@@ -38,4 +38,4 @@ getSecrets
 #
 # End
 #
-exec "/usr/bin/restic"
+exec /usr/bin/restic $@
